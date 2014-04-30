@@ -1,0 +1,5291 @@
+  {
+    "name": "life", 
+    "children": [
+      {
+        "name": "k__Archaea", 
+        "children": [
+          {
+            "name": " p__Crenarchaeota", 
+            "children": [
+              {
+                "name": " c__Thaumarchaeota", 
+                "children": [
+                  {
+                    "name": " o__Nitrososphaerales", 
+                    "children": [
+                      {
+                        "name": " f__Nitrososphaeraceae", 
+                        "children": [
+                          {
+                            "name": " g__Candidatus Nitrososphaera", 
+                            "children": [
+                              {
+                                "name": "101071", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Euryarchaeota", 
+            "children": [
+              {
+                "name": " c__[Parvarchaea]", 
+                "children": [
+                  {
+                    "name": " o__YLA114", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2449", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "", 
+            "children": [
+              {
+                "name": "", 
+                "children": [
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo668", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "k__Bacteria", 
+        "children": [
+          {
+            "name": " p__Acidobacteria", 
+            "children": [
+              {
+                "name": " c__", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2218", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Acidobacteria-5", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "3490229", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Acidobacteria-6", 
+                "children": [
+                  {
+                    "name": " o__iii1-15", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "509442", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "704612", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Chloracidobacteria", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "55946", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "636687", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Holophagae", 
+                "children": [
+                  {
+                    "name": " o__Holophagales", 
+                    "children": [
+                      {
+                        "name": " f__Holophagaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "144899", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "3252661", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__MVS-40", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "583865", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "669483", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Solibacteres", 
+                "children": [
+                  {
+                    "name": " o__Solibacterales", 
+                    "children": [
+                      {
+                        "name": " f__Solibacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Candidatus Solibacter", 
+                            "children": [
+                              {
+                                "name": "304016", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "789791", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Actinobacteria", 
+            "children": [
+              {
+                "name": " c__Acidimicrobiia", 
+                "children": [
+                  {
+                    "name": " o__Acidimicrobiales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "255515", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Actinobacteria", 
+                "children": [
+                  {
+                    "name": " o__Actinomycetales", 
+                    "children": [
+                      {
+                        "name": " f__Actinosynnemataceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "12978", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Cellulomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Cellulomonas", 
+                            "children": [
+                              {
+                                "name": "235695", 
+                                "size": 6000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "101394", 
+                                "size": 10000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Corynebacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__Corynebacterium", 
+                            "children": [
+                              {
+                                "name": "1093318", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Frankiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "73544", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "240553", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "252713", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "254635", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "887457", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo804", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Intrasporangiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "248784", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "581352", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo2879", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Kineosporiaceae", 
+                        "children": [
+                          {
+                            "name": " g__Kineosporia", 
+                            "children": [
+                              {
+                                "name": "12697", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Microbacteriaceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "535579", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "739867", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1874551", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Micromonosporaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "214718", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "109779", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Nakamurellaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "147604", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Nocardioidaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "208818", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "237339", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "778968", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1124464", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Aeromicrobium", 
+                            "children": [
+                              {
+                                "name": "1798209", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "414150", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1024759", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Sporichthyaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "243367", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Williamsiaceae", 
+                        "children": [
+                          {
+                            "name": " g__Williamsia", 
+                            "children": [
+                              {
+                                "name": "534222", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "526776", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "557925", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1113503", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2458", 
+                                "size": 9000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Thermoleophilia", 
+                "children": [
+                  {
+                    "name": " o__Gaiellales", 
+                    "children": [
+                      {
+                        "name": " f__Gaiellaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "240172", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "572125", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1143223", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Solirubrobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Patulibacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo4", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Solirubrobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "252308", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "533434", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "567702", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Bacteroidetes", 
+            "children": [
+              {
+                "name": " c__Bacteroidia", 
+                "children": [
+                  {
+                    "name": " o__Bacteroidales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "538931", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "540669", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1115108", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1029", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1364", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1368", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo240", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2741", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo3011", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo362", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo57", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo881", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Bacteroidaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "156012", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Rikenellaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2405", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1763", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2687", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Flavobacteriia", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "144803", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Flavobacteriales", 
+                    "children": [
+                      {
+                        "name": " f__Cryomorphaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "103229", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "640461", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Flavobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__Elizabethkingia", 
+                            "children": [
+                              {
+                                "name": "577339", 
+                                "size": 3000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "849907", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Sphingobacteriia", 
+                "children": [
+                  {
+                    "name": " o__Sphingobacteriales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "242136", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1465", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Chitinophagaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "160651", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "216350", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "771274", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "953500", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1039568", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2740", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Chitinophaga", 
+                            "children": [
+                              {
+                                "name": "58620", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "164755", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "358280", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "570934", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Flammeovirgaceae", 
+                        "children": [
+                          {
+                            "name": " g__A4", 
+                            "children": [
+                              {
+                                "name": "220782", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "714990", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Flexibacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Emticicia", 
+                            "children": [
+                              {
+                                "name": "146568", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "584157", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Spirosoma", 
+                            "children": [
+                              {
+                                "name": "4244621", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1599", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1895", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2630", 
+                                "size": 6000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Saprospiraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2048", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Haliscomenobacter", 
+                            "children": [
+                              {
+                                "name": "76801", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Sphingobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "181246", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1445", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1874", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": "", 
+                "children": [
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "852920", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1925", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1953", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Chlamydiae", 
+            "children": [
+              {
+                "name": " c__Chlamydiia", 
+                "children": [
+                  {
+                    "name": " o__Chlamydiales", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo2608", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Chlorobi", 
+            "children": [
+              {
+                "name": " c__BSV26", 
+                "children": [
+                  {
+                    "name": " o__A89", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1444", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo286", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__PK329", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo51", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Chlorobia", 
+                "children": [
+                  {
+                    "name": " o__Chlorobiales", 
+                    "children": [
+                      {
+                        "name": " f__Chlorobiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "148055", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1822", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Ignavibacteria", 
+                "children": [
+                  {
+                    "name": " o__Ignavibacteriales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "100928", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1109817", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Ignavibacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "149540", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1125", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__OPB56", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "822814", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo880", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Chloroflexi", 
+            "children": [
+              {
+                "name": " c__Anaerolineae", 
+                "children": [
+                  {
+                    "name": " o__Anaerolineales", 
+                    "children": [
+                      {
+                        "name": " f__Anaerolinaceae", 
+                        "children": [
+                          {
+                            "name": " g__Anaerolinea", 
+                            "children": [
+                              {
+                                "name": "143935", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2394", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__envOPS12", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "533097", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1118641", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__H39", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2118", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo487", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo2715", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Chloroflexi", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "162705", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Chloroflexales", 
+                    "children": [
+                      {
+                        "name": " f__Chloroflexaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo41", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Ellin6529", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "82007", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Cyanobacteria", 
+            "children": [
+              {
+                "name": " c__Chloroplast", 
+                "children": [
+                  {
+                    "name": " o__Stramenopiles", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "317794", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2257132", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "denovo2190", 
+                                "size": 24000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Streptophyta", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1218", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Nostocophycideae", 
+                "children": [
+                  {
+                    "name": " o__Nostocales", 
+                    "children": [
+                      {
+                        "name": " f__Scytonemataceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "185766", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Oscillatoriophycideae", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2222", 
+                                "size": 7000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Fibrobacteres", 
+            "children": [
+              {
+                "name": " c__TG3", 
+                "children": [
+                  {
+                    "name": " o__TG3-1", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo167", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Firmicutes", 
+            "children": [
+              {
+                "name": " c__Bacilli", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "275582", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Bacillales", 
+                    "children": [
+                      {
+                        "name": " f__Paenibacillaceae", 
+                        "children": [
+                          {
+                            "name": " g__Paenibacillus", 
+                            "children": [
+                              {
+                                "name": "14363", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "685917", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Planococcaceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "264748", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Lactobacillales", 
+                    "children": [
+                      {
+                        "name": " f__Aerococcaceae", 
+                        "children": [
+                          {
+                            "name": " g__Aerococcus", 
+                            "children": [
+                              {
+                                "name": "346565", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Clostridia", 
+                "children": [
+                  {
+                    "name": " o__Clostridiales", 
+                    "children": [
+                      {
+                        "name": " f__Clostridiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "1102185", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Caloramator", 
+                            "children": [
+                              {
+                                "name": "denovo1552", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Clostridium", 
+                            "children": [
+                              {
+                                "name": "537375", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "3876673", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "688831", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Dehalobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__Dehalobacterium", 
+                            "children": [
+                              {
+                                "name": "denovo1405", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Ruminococcaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1379", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "718320", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "817995", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1115958", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Syntrophomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Syntrophomonas", 
+                            "children": [
+                              {
+                                "name": "988358", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Veillonellaceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "210896", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "824028", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2527", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2922", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Coriobacteriales", 
+                    "children": [
+                      {
+                        "name": " f__Coriobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1047", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Fusobacteria", 
+            "children": [
+              {
+                "name": " c__Fusobacteria", 
+                "children": [
+                  {
+                    "name": " o__Fusobacteriales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "2990433", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Gemmatimonadetes", 
+            "children": [
+              {
+                "name": " c__Gemmatimonadetes", 
+                "children": [
+                  {
+                    "name": " o__Gemmatimonadales", 
+                    "children": [
+                      {
+                        "name": " f__Gemmatimonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Gemmatimonas", 
+                            "children": [
+                              {
+                                "name": "denovo1472", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__GN02", 
+            "children": [
+              {
+                "name": " c__BD1-5", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1288", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__OD1", 
+            "children": [
+              {
+                "name": " c__", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2924", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__ABY1", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo623", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__SM2F11", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1837", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__OP3", 
+            "children": [
+              {
+                "name": " c__koll11", 
+                "children": [
+                  {
+                    "name": " o__GIF10", 
+                    "children": [
+                      {
+                        "name": " f__kpj58rc", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2075", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Planctomycetes", 
+            "children": [
+              {
+                "name": " c__Phycisphaerae", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo708", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Pla3", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "509051", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__vadinHA49", 
+                "children": [
+                  {
+                    "name": " o__DH61", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2893", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Proteobacteria", 
+            "children": [
+              {
+                "name": " c__Alphaproteobacteria", 
+                "children": [
+                  {
+                    "name": " o__Caulobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Caulobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Caulobacter", 
+                            "children": [
+                              {
+                                "name": "128790", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Phenylobacterium", 
+                            "children": [
+                              {
+                                "name": "5512", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Ellin329", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1816", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Rhizobiales", 
+                    "children": [
+                      {
+                        "name": " f__Bradyrhizobiaceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "216805", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Brucellaceae", 
+                        "children": [
+                          {
+                            "name": " g__Ochrobactrum", 
+                            "children": [
+                              {
+                                "name": "290517", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "534015", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Hyphomicrobiaceae", 
+                        "children": [
+                          {
+                            "name": " g__Devosia", 
+                            "children": [
+                              {
+                                "name": "144645", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Rhodoplanes", 
+                            "children": [
+                              {
+                                "name": "744505", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2972756", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Methylobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "237302", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Methylobacterium", 
+                            "children": [
+                              {
+                                "name": "258707", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "579710", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Methylocystaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "136235", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Rhizobiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "574749", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Agrobacterium", 
+                            "children": [
+                              {
+                                "name": "128628", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "220269", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "578761", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Rhodobiaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "251598", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "225511", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "229404", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "256527", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "513366", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "751360", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Rhodobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Hyphomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "519257", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Rhodobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Rhodobacter", 
+                            "children": [
+                              {
+                                "name": "267759", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "683891", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "704995", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "746799", 
+                                "size": 4000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Rhodospirillales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "246860", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Acetobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2073", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Roseomonas", 
+                            "children": [
+                              {
+                                "name": "75850", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Rhodospirillaceae", 
+                        "children": [
+                          {
+                            "name": " g__Azospirillum", 
+                            "children": [
+                              {
+                                "name": "115023", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Telmatospirillum", 
+                            "children": [
+                              {
+                                "name": "93710", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2065", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo882", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo214", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "554299", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Rickettsiales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "277868", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__mitochondria", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo130", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1570", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1747", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2059", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2615", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo508", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo690", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo950", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Sphingomonadales", 
+                    "children": [
+                      {
+                        "name": " f__Erythrobacteraceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "1083099", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Sphingomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Kaistobacter", 
+                            "children": [
+                              {
+                                "name": "145518", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "203846", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "246578", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "307166", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "denovo2260", 
+                                "size": 6000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Novosphingobium", 
+                            "children": [
+                              {
+                                "name": "72153", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "133044", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "231088", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Sphingobium", 
+                            "children": [
+                              {
+                                "name": "105198", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Sphingomonas", 
+                            "children": [
+                              {
+                                "name": "152429", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "588052", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "838293", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "149563", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "354042", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "552687", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1114792", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1197", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo2304", 
+                                "size": 8000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "357011", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo66", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Betaproteobacteria", 
+                "children": [
+                  {
+                    "name": " o__Burkholderiales", 
+                    "children": [
+                      {
+                        "name": " f__Alcaligenaceae", 
+                        "children": [
+                          {
+                            "name": " g__Achromobacter", 
+                            "children": [
+                              {
+                                "name": "423327", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Comamonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Aquabacterium", 
+                            "children": [
+                              {
+                                "name": "1107819", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Comamonas", 
+                            "children": [
+                              {
+                                "name": "295086", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "3796550", 
+                                "size": 7000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Hydrogenophaga", 
+                            "children": [
+                              {
+                                "name": "47512", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "97176", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "102445", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "136160", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "144875", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "552978", 
+                                "size": 8000
+                              }, 
+                              {
+                                "name": "829669", 
+                                "size": 23000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Hylemonella", 
+                            "children": [
+                              {
+                                "name": "821548", 
+                                "size": 22000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Limnohabitans", 
+                            "children": [
+                              {
+                                "name": "308944", 
+                                "size": 8000
+                              }, 
+                              {
+                                "name": "343284", 
+                                "size": 20000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Rubrivivax", 
+                            "children": [
+                              {
+                                "name": "115156", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "166838", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "4170464", 
+                                "size": 9000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "6997", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "7043", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "43597", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "74685", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "84980", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "93726", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "98380", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "106999", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "110852", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "113128", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "137411", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "143487", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "147885", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "160195", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "164959", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "172053", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "204526", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "215539", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "236168", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "245121", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "249150", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "261931", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "264669", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "281172", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "310563", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "317724", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "323551", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "338208", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "348395", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "351940", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "394369", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "412392", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "463546", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "510711", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "545507", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "545956", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "545997", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "553551", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "554158", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "585904", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "587796", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "651074", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "664656", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "696865", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "699206", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "750840", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "764906", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "765165", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "818509", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "821566", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "834682", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "841724", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "846329", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "1116348", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "1124268", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "1124681", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "1125869", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "1131789", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "1137143", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "1148287", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "2194872", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "2792176", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "2792177", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "4254478", 
+                                "size": 6000
+                              }, 
+                              {
+                                "name": "denovo1378", 
+                                "size": 7000
+                              }, 
+                              {
+                                "name": "denovo1838", 
+                                "size": 10000
+                              }, 
+                              {
+                                "name": "denovo2355", 
+                                "size": 13000
+                              }, 
+                              {
+                                "name": "denovo2358", 
+                                "size": 37000
+                              }, 
+                              {
+                                "name": "denovo2769", 
+                                "size": 41000
+                              }, 
+                              {
+                                "name": "denovo2956", 
+                                "size": 48000
+                              }, 
+                              {
+                                "name": "denovo641", 
+                                "size": 81000
+                              }, 
+                              {
+                                "name": "denovo916", 
+                                "size": 102000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Oxalobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "247545", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Janthinobacterium", 
+                            "children": [
+                              {
+                                "name": "358564", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Polynucleobacter", 
+                            "children": [
+                              {
+                                "name": "352838", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "227265", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "581409", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "3006054", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "4091428", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2803", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo549", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo562", 
+                                "size": 9000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Ellin6067", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "1127926", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Gallionellales", 
+                    "children": [
+                      {
+                        "name": " f__Gallionellaceae", 
+                        "children": [
+                          {
+                            "name": " g__Gallionella", 
+                            "children": [
+                              {
+                                "name": "1147713", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Hydrogenophilales", 
+                    "children": [
+                      {
+                        "name": " f__Hydrogenophilaceae", 
+                        "children": [
+                          {
+                            "name": " g__Thiobacillus", 
+                            "children": [
+                              {
+                                "name": "786890", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Methylophilales", 
+                    "children": [
+                      {
+                        "name": " f__Methylophilaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "264040", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "821712", 
+                                "size": 15000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Methylotenera", 
+                            "children": [
+                              {
+                                "name": "509174", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "520725", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "541424", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "114612", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "305721", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "142762", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2207", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "1117946", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Neisseriales", 
+                    "children": [
+                      {
+                        "name": " f__Neisseriaceae", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo2102", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Rhodocyclales", 
+                    "children": [
+                      {
+                        "name": " f__Rhodocyclaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "365866", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Azospira", 
+                            "children": [
+                              {
+                                "name": "163897", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Dechloromonas", 
+                            "children": [
+                              {
+                                "name": "149111", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "592056", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "783508", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "1136953", 
+                                "size": 12000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Sulfuritalea", 
+                            "children": [
+                              {
+                                "name": "224877", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Uliginosibacterium", 
+                            "children": [
+                              {
+                                "name": "168182", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Zoogloea", 
+                            "children": [
+                              {
+                                "name": "584010", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "6673", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "142103", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "511887", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "516341", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "536858", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "586984", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "759257", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "805571", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1115299", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2451651", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2891957", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1120", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo2382", 
+                                "size": 22000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__SBla14", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "341843", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__SC-I-84", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "238426", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Thiobacterales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "1112811", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "6752", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "137480", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "143135", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "170130", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "178053", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "240233", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "245670", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "562860", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "567753", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "3116300", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1004", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1431", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1708", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1720", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2274", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo2284", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo2695", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo422", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo984", 
+                                "size": 8000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Deltaproteobacteria", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "308373", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "554266", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Bdellovibrionales", 
+                    "children": [
+                      {
+                        "name": " f__Bacteriovoracaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "809317", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2039", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2122", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo834", 
+                                "size": 10000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Desulfobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Desulfobulbaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "276287", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Desulfobulbus", 
+                            "children": [
+                              {
+                                "name": "247260", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Desulfovibrionales", 
+                    "children": [
+                      {
+                        "name": " f__Desulfovibrionaceae", 
+                        "children": [
+                          {
+                            "name": " g__Desulfovibrio", 
+                            "children": [
+                              {
+                                "name": "592620", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo3021", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo964", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Desulfurellales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "840765", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Desulfuromonadales", 
+                    "children": [
+                      {
+                        "name": " f__Geobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Geobacter", 
+                            "children": [
+                              {
+                                "name": "48355", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "202514", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "635511", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1140968", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "110735", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1115527", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "220762", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo304", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo738", 
+                                "size": 4000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Myxococcales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "1002966", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__0319-6G20", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "771634", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Cystobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Cystobacter", 
+                            "children": [
+                              {
+                                "name": "denovo1157", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "336745", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Nannocystaceae", 
+                        "children": [
+                          {
+                            "name": " g__Nannocystis", 
+                            "children": [
+                              {
+                                "name": "314203", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Plesiocystis", 
+                            "children": [
+                              {
+                                "name": "3992505", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "501684", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo177", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2251", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Spirobacillales", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1665", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Syntrophobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Syntrophaceae", 
+                        "children": [
+                          {
+                            "name": " g__Syntrophus", 
+                            "children": [
+                              {
+                                "name": "612227", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "670053", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo429", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Syntrophobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Syntrophobacter", 
+                            "children": [
+                              {
+                                "name": "163774", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2809", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Syntrophorhabdaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "143834", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Epsilonproteobacteria", 
+                "children": [
+                  {
+                    "name": " o__Campylobacterales", 
+                    "children": [
+                      {
+                        "name": " f__Campylobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Arcobacter", 
+                            "children": [
+                              {
+                                "name": "144024", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Helicobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo879", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Gammaproteobacteria", 
+                "children": [
+                  {
+                    "name": " o__Aeromonadales", 
+                    "children": [
+                      {
+                        "name": " f__Aeromonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "164822", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "203157", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Tolumonas", 
+                            "children": [
+                              {
+                                "name": "526817", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1492", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Alteromonadales", 
+                    "children": [
+                      {
+                        "name": " f__[Chromatiaceae]", 
+                        "children": [
+                          {
+                            "name": " g__Rheinheimera", 
+                            "children": [
+                              {
+                                "name": "139424", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Alteromonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Cellvibrio", 
+                            "children": [
+                              {
+                                "name": "819023", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Enterobacteriales", 
+                    "children": [
+                      {
+                        "name": " f__Enterobacteriaceae", 
+                        "children": [
+                          {
+                            "name": " g__Morganella", 
+                            "children": [
+                              {
+                                "name": "720489", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Providencia", 
+                            "children": [
+                              {
+                                "name": "365184", 
+                                "size": 6000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "54877", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "569979", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Legionellales", 
+                    "children": [
+                      {
+                        "name": " f__Coxiellaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo2702", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Aquicella", 
+                            "children": [
+                              {
+                                "name": "232046", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "612198", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2953", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Methylococcales", 
+                    "children": [
+                      {
+                        "name": " f__Crenotrichaceae", 
+                        "children": [
+                          {
+                            "name": " g__Crenothrix", 
+                            "children": [
+                              {
+                                "name": "131019", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "534688", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2400244", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2400246", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "3638246", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1344", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1796", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo1804", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "denovo203", 
+                                "size": 10000
+                              }, 
+                              {
+                                "name": "denovo2074", 
+                                "size": 11000
+                              }, 
+                              {
+                                "name": "denovo2227", 
+                                "size": 20000
+                              }, 
+                              {
+                                "name": "denovo354", 
+                                "size": 27000
+                              }, 
+                              {
+                                "name": "denovo357", 
+                                "size": 82000
+                              }, 
+                              {
+                                "name": "denovo936", 
+                                "size": 218000
+                              }, 
+                              {
+                                "name": "3219860", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo1201", 
+                                "size": 8000
+                              }, 
+                              {
+                                "name": "denovo146", 
+                                "size": 13000
+                              }, 
+                              {
+                                "name": "denovo1850", 
+                                "size": 36000
+                              }, 
+                              {
+                                "name": "denovo1922", 
+                                "size": 36000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Methylococcaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1116", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Methylocaldum", 
+                            "children": [
+                              {
+                                "name": "380204", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2386", 
+                                "size": 2000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Methylomonas", 
+                            "children": [
+                              {
+                                "name": "8057", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "8067", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "8090", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "40125", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "45263", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "142784", 
+                                "size": 9000
+                              }, 
+                              {
+                                "name": "588559", 
+                                "size": 23000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "141872", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1124243", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1643", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1691", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2135", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo893", 
+                                "size": 7000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1510", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2188", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2330", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2544", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo2653", 
+                                "size": 7000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Pseudomonadales", 
+                    "children": [
+                      {
+                        "name": " f__Moraxellaceae", 
+                        "children": [
+                          {
+                            "name": " g__Acinetobacter", 
+                            "children": [
+                              {
+                                "name": "54545", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "579115", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "194118", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "532598", 
+                                "size": 4000
+                              }, 
+                              {
+                                "name": "286025", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "388951", 
+                                "size": 4000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Enhydrobacter", 
+                            "children": [
+                              {
+                                "name": "484436", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2344", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "548754", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Pseudomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Pseudomonas", 
+                            "children": [
+                              {
+                                "name": "72643", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "400315", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "179854", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "394796", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "410048", 
+                                "size": 45000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "156652", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo793", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": " o__Xanthomonadales", 
+                    "children": [
+                      {
+                        "name": " f__Sinobacteraceae", 
+                        "children": [
+                          {
+                            "name": " g__Nevskia", 
+                            "children": [
+                              {
+                                "name": "3120500", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Xanthomonadaceae", 
+                        "children": [
+                          {
+                            "name": " g__Lysobacter", 
+                            "children": [
+                              {
+                                "name": "2340272", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": " g__Rhodanobacter", 
+                            "children": [
+                              {
+                                "name": "179061", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "449595", 
+                                "size": 3000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "7505", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "897420", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo11", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1117", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo118", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1410", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1488", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1616", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo170", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1750", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2093", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2258", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2296", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2573", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2587", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2785", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2921", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2954", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo603", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo654", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo767", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo897", 
+                                "size": 6000
+                              }, 
+                              {
+                                "name": "denovo908", 
+                                "size": 8000
+                              }, 
+                              {
+                                "name": "denovo94", 
+                                "size": 91000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": "", 
+                "children": [
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1107", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2144", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Spirochaetes", 
+            "children": [
+              {
+                "name": " c__[Brevinematae]", 
+                "children": [
+                  {
+                    "name": " o__[Brevinematales]", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "2347450", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__[Leptospirae]", 
+                "children": [
+                  {
+                    "name": " o__[Leptospirales]", 
+                    "children": [
+                      {
+                        "name": " f__Leptospiraceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo666", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Sediment-4", 
+                        "children": [
+                          {
+                            "name": " g__SJA-88", 
+                            "children": [
+                              {
+                                "name": "317015", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1108618", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1776", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Spirochaetes", 
+                "children": [
+                  {
+                    "name": " o__Spirochaetales", 
+                    "children": [
+                      {
+                        "name": " f__Spirochaetaceae", 
+                        "children": [
+                          {
+                            "name": " g__Spirochaeta", 
+                            "children": [
+                              {
+                                "name": "89319", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__TM7", 
+            "children": [
+              {
+                "name": " c__SC3", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "denovo1069", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__Verrucomicrobia", 
+            "children": [
+              {
+                "name": " c__[Pedosphaerae]", 
+                "children": [
+                  {
+                    "name": " o__[Pedosphaerales]", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "610383", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo408", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__auto67_4W", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "813303", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1120116", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "2409043", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1198", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": " f__Ellin515", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "1105298", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo42", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }, 
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1025", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1303", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo2463", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__[Spartobacteria]", 
+                "children": [
+                  {
+                    "name": " o__[Chthoniobacterales]", 
+                    "children": [
+                      {
+                        "name": " f__[Chthoniobacteraceae]", 
+                        "children": [
+                          {
+                            "name": " g__Ellin506", 
+                            "children": [
+                              {
+                                "name": "denovo1442", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Opitutae", 
+                "children": [
+                  {
+                    "name": " o__Opitutales", 
+                    "children": [
+                      {
+                        "name": " f__Opitutaceae", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "697714", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "name": " c__Verrucomicrobiae", 
+                "children": [
+                  {
+                    "name": " o__Verrucomicrobiales", 
+                    "children": [
+                      {
+                        "name": " f__Verrucomicrobiaceae", 
+                        "children": [
+                          {
+                            "name": " g__Prosthecobacter", 
+                            "children": [
+                              {
+                                "name": "denovo307", 
+                                "size": 1000
+                              }
+                            ]
+                          }, 
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "341698", 
+                                "size": 1000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": " p__WYO", 
+            "children": [
+              {
+                "name": " c__", 
+                "children": [
+                  {
+                    "name": " o__", 
+                    "children": [
+                      {
+                        "name": " f__", 
+                        "children": [
+                          {
+                            "name": " g__", 
+                            "children": [
+                              {
+                                "name": "688363", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "1028542", 
+                                "size": 2000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "", 
+            "children": [
+              {
+                "name": "", 
+                "children": [
+                  {
+                    "name": "", 
+                    "children": [
+                      {
+                        "name": "", 
+                        "children": [
+                          {
+                            "name": "", 
+                            "children": [
+                              {
+                                "name": "denovo1014", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1111", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1149", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1249", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1371", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1418", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1501", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1515", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1630", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1740", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1851", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1952", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo1972", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2053", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo212", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2152", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2242", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2378", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2433", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2508", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2535", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2538", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2556", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2680", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2745", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo277", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2857", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2860", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2896", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo2925", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo312", 
+                                "size": 1000
+                              }, 
+                              {
+                                "name": "denovo463", 
+                                "size": 2000
+                              }, 
+                              {
+                                "name": "denovo474", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "denovo488", 
+                                "size": 3000
+                              }, 
+                              {
+                                "name": "denovo634", 
+                                "size": 5000
+                              }, 
+                              {
+                                "name": "denovo792", 
+                                "size": 6000
+                              }, 
+                              {
+                                "name": "denovo929", 
+                                "size": 9000
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
